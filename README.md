@@ -1,1 +1,1 @@
-# Genius-Kernel
+the repository contains 3 kinds of development mode, they are real time development, protected mode development, assembly language bonus, it has key functionalities, including task/process management, custom keyboard drivers, comprehensive memory management, and an ELF file loader, facilitating versatile program execution.
